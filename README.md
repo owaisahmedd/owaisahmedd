@@ -1,69 +1,77 @@
-# Hi 👋, I'm Owais Ahmed  
-💻 Senior Python/Django Developer | FinTech & ERP Specialist | Payment Gateway Integrator  
+# Hi 👋, I'm Owais Ahmed
+💻 Senior Python/Django Developer | FinTech & ERP | Payment Gateway Integrations
 
-[![Profile Views](https://komarev.com/ghpvc/?username=owaisahmed&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/owaisahmed)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/owais-ahmed-30/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ovaishamed30@gmail.com)  
+[![Profile Views](https://komarev.com/ghpvc/?username=owaisahmedd&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/owaisahmedd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-owais--ahmed--30-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-ahmed-30/)
+[![Email](https://img.shields.io/badge/Email-ovaishamed30%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ovaishamed30@gmail.com)
 
 ---
 
 ## 🚀 About Me
-Versatile and performance-focused **Senior Python Developer** with **7+ years of experience** in building **secure, scalable fintech platforms and ERP-integrated systems**.  
-- 🔭 Currently working at **Nexnology** on payment automation platforms.  
-- 🌱 Learning **Cloud Services, Dockerization & Microservices**.  
-- 👯 Open to collaborating on **FinTech, ERP, and Payment Systems**.  
-- 💬 Ask me about **Python, Django, Payment Gateways, Financial Integrations**.  
-- 📫 Reach me at: **ovaishamed30@gmail.com**  
+Versatile, performance-focused **Senior Python Developer** with **7+ years** building secure, scalable **fintech** and **ERP-integrated** platforms. I architect high-availability backends with **Django/DRF, Celery, RabbitMQ**, and integrate major gateways (**Stripe, NMI, CardConnect, Authorize.Net**) plus accounting stacks (**QuickBooks, Xero, FreshBooks**). I love clean architecture, reliable APIs, and shipping business value.
+
+- 🔭 Currently: building payment automation and recurring billing platforms
+- 🌱 Learning: containerization, cloud services, and microservices patterns
+- 💬 Ask me about: **Django, REST APIs, Celery/RabbitMQ, payment integrations**
+- 📫 Reach me: **ovaishamed30@gmail.com**
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40"/>
-</p>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+</p>
 
 ---
 
 ## 💼 Experience Highlights
-- 🏦 **Senior Python Developer @ Nexnology**  
-  Architected a scalable **payment automation platform** (Django, DRF, MySQL, Celery, RabbitMQ, WebSocket) used by 1,000+ ERP users. Integrated major gateways (Stripe, NMI, CardConnect) with QuickBooks, Xero, and FreshBooks:contentReference[oaicite:0]{index=0}.  
+- **Senior Python Developer – Nexnology**
+  - Scalable **payment automation platform** (Django, DRF, MySQL, Celery, RabbitMQ, WebSocket) used by 1,000+ ERP users
+  - Integrated **Stripe, NMI, CardConnect** with **QuickBooks, FreshBooks, Xero**; reduced reconciliation time dramatically
+  - Passed Intuit Marketplace technical & security reviews (CSP, CSRF, XSS, SQLi hardened)
 
-- 🚗 **Python Developer @ Forward Production**  
-  Built a **Vehicle Dealership Management System** with Flask + Vue.js, including Sales, Service, Recovery, HR, and Finance modules:contentReference[oaicite:1]{index=1}.  
+- **Python Developer – Forward Production**
+  - Built a **Vehicle Dealership Management System** (Flask + Vue.js) with Sales/Service/HR/Finance modules, reports & background jobs
+  - PostgreSQL + SQLAlchemy; Linux + NGINX + uWSGI deployments
 
-- 🌐 **.NET MVC Developer @ Danat E-Ventures**  
-  Started as intern → promoted to developer. Delivered functional e-commerce and multiple live projects:contentReference[oaicite:2]{index=2}.  
+- **.NET MVC Junior Web Developer – Danat E-Ventures**
+  - Delivered e-commerce and multiple live projects; EF + SQL Server; rapid learning → promotion to Python track
 
 ---
 
 ## 📌 Featured Projects
-- **PayLync** – ERP-based Payment Automation Platform (Django, DRF, Celery, RabbitMQ, Stripe, NMI, CardConnect):contentReference[oaicite:3]{index=3}  
-- **UnrealPOS** – Point of Sale with QuickBooks Integration (Django, Stripe Terminal, CardConnect):contentReference[oaicite:4]{index=4}  
-- **Optimus** – Advanced Payment Processing Platform with ACH, Split & Batch Payments:contentReference[oaicite:5]{index=5}  
+- **PayLync** – ERP-based Payment Automation Platform  
+  *Django, DRF, Celery, RabbitMQ, MySQL, Stripe, NMI, CardConnect*
+- **UnrealPOS** – Real-time POS with QuickBooks Online Sync  
+  *Django, QuickBooks API, Stripe Terminal, CardConnect, PostgreSQL*
+- **Optimus** – Advanced Payment Processing (ACH, split, batch, recurring)  
+  *Django, DRF, Celery, RabbitMQ, MySQL, Stripe, NMI, CardConnect, WebSocket*
 
 ---
 
 ## 📊 GitHub Stats
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owaisahmed&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisahmed&layout=compact&theme=dark)  
+> These cards read **public** GitHub data for the username below. They’ll populate as you add public repos/commits.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=owaisahmedd&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisahmedd&layout=compact&theme=dark)
+![Streak](https://streak-stats.demolab.com/?user=owaisahmedd&theme=dark)
 
 ---
 
-## 🎯 Fun Facts
-- 🧑‍💻 Passionate about **FinTech & ERP automation**.  
-- ✨ Strong believer in **clean code & scalable architecture**.  
-- 🌸 Interests: Programming & Perfume.  
+## 🎯 Interests
+Programming • FinTech • ERP automations • Perfume
 
 ---
-⭐️ From [Owais Ahmed](https://github.com/owaisahmed)
+⭐️ From [Owais Ahmed](https://github.com/owaisahmedd)
