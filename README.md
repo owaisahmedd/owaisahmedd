@@ -71,7 +71,7 @@ Versatile, performance-focused **Senior Python Developer** with **7+ years** bui
 ![Top Langs](https://my-versal-repo.vercel.app/api/top-langs/?username=owaisahmedd&layout=compact&theme=dark&hide_progress=false&count_private=true&cache_seconds=60)
 
 <!-- Streak Stats -->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=owaisahmedd&theme=dark)
+![Streak]([https://github-readme-streak-stats.herokuapp.com/?user=owaisahmedd&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=owaisahmedd&theme=dark))
 
 
 ---
