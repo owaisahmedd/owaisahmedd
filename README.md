@@ -64,9 +64,14 @@ Versatile, performance-focused **Senior Python Developer** with **7+ years** bui
 ## 📊 GitHub Stats
 > These cards read **public** GitHub data for the username below. They’ll populate as you add public repos/commits.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=owaisahmedd&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisahmedd&layout=compact&theme=dark)
-![Streak](https://streak-stats.demolab.com/?user=owaisahmedd&theme=dark)
+<!-- GitHub Stats -->
+![Stats](https://my-versal-repo.vercel.app/api?username=owaisahmedd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60)
+
+<!-- Top Languages -->
+![Top Langs](https://my-versal-repo.vercel.app/api/top-langs/?username=owaisahmedd&layout=compact&theme=dark&hide_progress=false&count_private=true&cache_seconds=60)
+
+<!-- Streak Stats -->
+![Streak](https://my-versal-repo.vercel.app/api?username=owaisahmedd&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=60)
 
 ---
 
